@@ -39,4 +39,4 @@ Para rodar qualquer um dos scripts na sua máquina, você precisará ter o [Node
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/matheuscicero/exercicios-logica-javascript.git](https://github.com/matheuscicero/exercicios-logica-javascript.git)
